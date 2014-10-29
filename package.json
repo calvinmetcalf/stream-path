@@ -1,0 +1,26 @@
+{
+  "name": "stream-path",
+  "version": "0.0.0",
+  "description": "Like a blob url in the browser, but for a path in node, and with a stream instead of a blob",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/calvinmetcalf/stream-path.git"
+  },
+  "keywords": [
+    "stream",
+    "path"
+  ],
+  "author": "",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/calvinmetcalf/stream-path/issues"
+  },
+  "homepage": "https://github.com/calvinmetcalf/stream-path",
+  "devDependencies": {
+    "tape": "^3.0.1"
+  }
+}
